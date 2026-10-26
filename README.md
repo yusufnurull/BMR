@@ -6,9 +6,9 @@ Aplikasi BMR Calculator adalah aplikasi berbasis Flutter yang dikembangkan untuk
 
 ## 👥 Anggota Kelompok
 
-1. [Nama Anggota 1] - [NIM/ID]
-2. [Nama Anggota 2] - [NIM/ID]
-3. [Nama Anggota 3] - [NIM/ID] (Opsional jika hanya 2 orang)
+1. MUHAMMAD RAFLI RAFSANJANI - K3524030
+2. YUSUF NURUL HUDA - K3524038
+3. MUHAMMAD RAMDHANI - K3524080
 
 ## 📱 Deskripsi Aplikasi
 
