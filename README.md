@@ -30,8 +30,8 @@ Hasil merupakan estimasi dan dapat berbeda dari kebutuhan aktual setiap orang.
 
 Simpan screenshot aplikasi pada folder `screenshots/` dengan nama berikut:
 
-![Screenshot Input Page](Tampilan_Awal.jpeg)
-![Screenshot Result Page](Tampilan_Hasil.jpeg)
+![Screenshot Input Page](screenshots\Tampilan_Awal.jpeg)
+![Screenshot Result Page](screenshots\Tampilan_Hasil.jpeg)
 
 ## 🚀 Cara Menjalankan Project
 
