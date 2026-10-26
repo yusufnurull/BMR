@@ -30,8 +30,8 @@ Hasil merupakan estimasi dan dapat berbeda dari kebutuhan aktual setiap orang.
 
 Simpan screenshot aplikasi pada folder `screenshots/` dengan nama berikut:
 
-![Screenshot Input Page](screenshots/bmr-input.png)
-![Screenshot Result Page](screenshots/bmr-result.png)
+![Screenshot Input Page](Tampilan_Awal.jpeg)
+![Screenshot Result Page](Tampilan_Hasil.jpeg)
 
 ## 🚀 Cara Menjalankan Project
 
